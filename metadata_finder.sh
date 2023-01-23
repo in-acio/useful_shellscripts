@@ -7,7 +7,7 @@
 # ------------------------------------------------------------------------ #
 #  Find and show metadata of files, all through google, lynx and exiftool
 #
-#  Exemplos:
+#  Examples:
 #      $ ./metadata_finder.sh example.com pdf -d 1
 #      Find all pdf files of example.com available on google and show up with the 
 #           metadata
