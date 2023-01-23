@@ -2,7 +2,7 @@
 #
 # email_parser.sh - Find all (normal-formatted) e-mails
 #
-# Site: https://github.com/impgunus
+# Site: https://github.com/impugnus
 #
 # ------------------------------------------------------------------------ #
 #  Given a URL, this script will download it's main page and search for e-mails using regex
