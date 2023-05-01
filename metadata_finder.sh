@@ -2,8 +2,6 @@
 #
 # metadata_finder.sh - Search and analyze metadata of specified file types
 #
-# Github: https://github.com/impugnus
-#
 # ------------------------------------------------------------------------ #
 #  Find and show metadata of files, all through google, lynx and exiftool
 #
